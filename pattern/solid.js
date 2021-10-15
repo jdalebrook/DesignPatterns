@@ -6,4 +6,3 @@ L — Liskov substitution principle > Las pruebas del padre sobre el hijo deben 
 I — Interface segregation principle > Se debe usar interfaces mínimas
 D — Dependency Inversion Principle > 
 `
-console.log(solid);

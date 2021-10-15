@@ -23,3 +23,5 @@ const single1 = new Single("Instancia i2", "NO ES ACCESIBLE");
 console.log(single);
 console.log(single1);
 
+
+
